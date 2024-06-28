@@ -1,10 +1,10 @@
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+#include <bits/stdc++.h>
+#include <iostream>
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
+using namespace std;
 
-You can return the answer in any order.
-
- 
+/* 
+<-Description->
     Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
     You must write an algorithm that runs in O(n) time.
 
